@@ -1,4 +1,4 @@
-👋 Hi, I'm Anurag Barkhane
+## 👋Hi I'm Anurag Barkhane
 Final-year ECE student at NIT Bhopal | Data Analytics & Full-Stack Development
 Tech Stack: Python • SQL • C++ • React.js • Node.js • MongoDB
 Analytics Tools: Power BI • Tableau • Looker • Excel
