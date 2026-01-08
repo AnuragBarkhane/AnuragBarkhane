@@ -1,6 +1,8 @@
-# 💫 About Me:
-I am a Final year Undergraduate persuing my betch in ECE from NIT-Bhopal.<br>I am having hands on experience in Data Analytical and Business Management Field.<br>I am proeficient in SQL ,C++ , Python , ReactJs , NodeJs , Express JS , MongoDb , and if we talk about in visualization tools I have hands on experience in Looker , PowerBI, Tableau , Excel.<br>Currently I am looking for a High paying Job .
-
+👋 Hi, I'm Anurag Barkhane
+Final-year ECE student at NIT Bhopal | Data Analytics & Full-Stack Development
+Tech Stack: Python • SQL • C++ • React.js • Node.js • MongoDB
+Analytics Tools: Power BI • Tableau • Looker • Excel
+Open to full-time opportunities in Data Analytics, Business Intelligence, and Software Development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ anurag_barkhane_0708) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anurag Barkhane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anitabarkhane0708@gmail.com) 
